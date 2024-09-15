@@ -4,11 +4,7 @@ This project contains simulations and explanations for various quantum computing
 
 ### Explanations
 
-The `explanations/` directory contains markdown files with detailed explanations of the following quantum computing concepts:
-
-- Quantum Key Distribution (QKD)
-- Quantum Circuits
-- Shor's Algorithm
+The `explanations/` directory contains markdown files with explanations.
 
 ### Simulations
 
