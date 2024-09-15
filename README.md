@@ -8,11 +8,7 @@ The `explanations/` directory contains markdown files with explanations.
 
 ### Simulations
 
-The `simulations/` directory contains Python scripts that simulate the following quantum algorithms and concepts:
-
-- Quantum Key Distribution (QKD)
-- Quantum Circuits
-- Shor's Algorithm
+The `simulations/` directory contains Python scripts that simulate quantum algorithms and concepts.
 
 ## Setup
 
