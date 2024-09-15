@@ -8,7 +8,7 @@ The `explanations/` directory contains markdown files with explanations.
 
 ### Simulations
 
-The `simulations/` directory contains Python scripts that simulate quantum algorithms and concepts.
+The `simulations/` directory contains Python scripts.
 
 ## Setup
 
