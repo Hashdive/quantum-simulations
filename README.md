@@ -1,4 +1,4 @@
-# Quantum Experiments Project
+# Quantum Simulations
 
 This project contains simulations and explanations for various quantum computing concepts and algorithms focusing on quantum cryptography.
 
