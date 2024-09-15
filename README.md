@@ -1,6 +1,6 @@
 # Quantum Simulations
 
-This project contains simulations and explanations for various quantum computing concepts and algorithms focusing on quantum cryptography.
+This project contains simulations and explanations for various quantum computing concepts and algorithms focusing on cryptography.
 
 ### Explanations
 
