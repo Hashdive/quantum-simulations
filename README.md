@@ -47,7 +47,8 @@ To run this code, you need:
 
 2. Run the script using Python:
    ```bash
-   python shor_algorithm.py
+   python shor_break.py
+   python quantum-circuits.py
    ```
 
 The script will attempt to factor 15 using Shor's algorithm. It will output:
